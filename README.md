@@ -1,4 +1,4 @@
-# Dperrone Windows Ansible Project
+# Ansible Windows Management Project
 
 ## Included content/ Directory Structure
 
